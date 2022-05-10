@@ -200,6 +200,7 @@ a {
 }
 
 .action-button {
+    display: block;
     color: var(--txtclr-light);
     padding: 4px 30px; 
     margin-left: auto;
